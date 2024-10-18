@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/.well-known/atproto-did",
+      "destination": "/api/did"
+    }
+  ]
+}
